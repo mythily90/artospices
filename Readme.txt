@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+Inial template taken from bootstrapmade and modified accordingly
 
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
